@@ -1,0 +1,127 @@
+h1 {
+   font-family: Open Sans;
+   font-weight: 300;
+   font-size: 42px;
+   color: #222;
+   margin-bottom: 20px;
+}
+
+h3 {
+   font-family: Open Sans;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 28px;
+   color: #222;
+}
+
+h4 {
+   font-family: Open Sans;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 28px;
+   color: #666;
+}
+
+h5 {
+   font-family: Open Sans;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 28px;
+   color: #222;
+   border-bottom: 2px solid #8c6c97;
+   display: inline-block;
+   margin-bottom: 40px;
+}
+
+h6 {
+   font-family: Open Sans;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 22px;
+   color: #666;
+}
+
+#top-bar {
+   background-color: #FFF;
+   padding: 20px 0px;
+   position: fixed;
+   z-index: 999;
+   left: 0;
+   right: 0;
+   top: 0;
+}
+
+.section {
+   padding-bottom: 40px;
+   border-bottom: 2px solid #DDD;
+   margin-top: 40px;
+}
+
+ul.links {
+   float: right;
+}
+
+li {
+   font-family: Open Sans;
+   font-weight: 600;
+   font-size: 15px;
+   display: inline-block;
+   padding: 0px 20px;
+   margin: 0px 5px;
+   line-height: 52px;
+   cursor: pointer;
+}
+
+li a {
+   color: #222;
+   text-decoration: none;
+}
+
+li.sel {
+   background-color: #8c6c97;
+   color: #FFF;
+   border-radius: 4px;
+}
+
+li.sel a {
+   color: #FFF;
+}
+
+.content {
+   border-top: 12px solid #DDD;
+   margin-top: 96px;
+}
+
+#vid {
+   width: 436px;
+   border: 12px solid #DDD;
+   background-color: #FFF;
+   height: 245px;
+}
+
+.photo {
+   padding-bottom: 0px;
+   margin-bottom: 0px;
+   display: block;
+   height: 218px;
+}
+
+.photo img {
+   width: 220px;
+   height: 218px;
+}
+
+.caption {
+   background-color: #DDD;
+   width: 100%;
+   text-align: center;
+   padding: 20px 0px;
+}
+
+.team-desc {
+   margin-top: 20px;
+}
+
+.margin-bottom {
+ margin-bottom: 40px;
+}
